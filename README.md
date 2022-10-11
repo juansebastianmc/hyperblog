@@ -8,4 +8,7 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/clases/155
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Las personalidades multiples de freddy[a ver el curso](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "a ver el curso")
+* Las personalidades multiples de freddy 
+* Creado por el increible Platzi Team
+
+[a ver el curso](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "a ver el curso")
